@@ -1,0 +1,6 @@
+﻿  Money.cpp
+  Pair.cpp
+  oop5_1_D.cpp
+  Создание кода...
+D:\Student\oop5.1D\oop5.1D\Money.cpp(226): warning C4715: operator/: значение возвращается не при всех путях выполнения
+  oop5.1D.vcxproj -> D:\Student\oop5.1D\Debug\oop5.1D.exe
